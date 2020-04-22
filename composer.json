@@ -1,0 +1,14 @@
+{
+    "name": "intermachine-developers/php-encuesta",
+    "description": "encuesta de usuario con concepto ajax",
+    "license": "intermachine open-source",
+    "authors": [
+        {
+            "name": "intermachine developers",
+            "email": "omegamatrix5351@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
